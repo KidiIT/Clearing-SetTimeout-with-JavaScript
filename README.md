@@ -1,8 +1,10 @@
 #  Clearing SetTimeout with JavaScript 
+
 To begin with, I want to start by thanking everyone for the massive review and love on my works. your reviews do motivate me to develop and solve more tremendous works with JavaScript and some other awaiting programming languages. however, lets get to the wonderful knowledge and experience I'm going to share with the community today.
  Futhermore,the following will explain and give you an indepth understanding and knowledge about this project and how to use it at your various places of work.
 
 How to use and the purpose of this project:
+
 1: This project was intensively developed with the motive of ensuring prevention and improvement of proactive security software for the protection of an organization infrastructure.
 
 2:Before rolling on the real deal, an indepth knowledge of html,css and Javascript is needed to be able to understand how to clear settimeout funtion with Javascript because it's kinda tricky if this is your first time here.
@@ -17,11 +19,12 @@ How to use and the purpose of this project:
 
 7: in this step, you'll create another constant veriable  which will be assign to the  setinterval function to and set the time you want as a timer. it's usally caculated in sec which is 1000 = 1sec. haven't understood how to assign and store the setinterval function to a varibale which I named as timing on my time.js file.
 
-8: The setTimeout is a function method which  perform the timeout task and clear the time you set on your initial variable as seen on my time.js mine was set as 200. and these can only be done once. 
+8: The setTimeout is a function method which perform the timeout task and clear the time you set on your initial variable as seen on my time.js mine was set as 200. and these can only be done once. 
 
 9: on the next, create a settimeout function after or on the next line of your code and inside your function, use the key word "clearTimeout(timing)" to store the veriable you assign to the setInterval function which is "timing" on my end.
  
 10: lastly, you can clear your timer by mutiplying the varibale time(value) which 200 * 1000(timer) to be able to iterate and excute its expected function at the right time. I presumed that we must've assimilated alot today.
+
 Just a recap for quick understanding, to solve  this problem, you need two responsive functions which are the setinterval function that take crae of the timer while the settimeout function is responsible to execute any function for clearing of the time that's been assign by the programmer at the initial stage. Also, the next part of this lgorithm deal with eventlistener in javascript which will be attached soonest. do well to reach if experience any issue on the process.
 
 
