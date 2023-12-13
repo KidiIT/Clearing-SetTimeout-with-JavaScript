@@ -3,6 +3,7 @@ To begin with, I want to start by thanking everyone for the massive review and l
  Futhermore,the following will explain and give you an indepth understanding and knowledge about this project and how to use it at your various places of work.
 
 How to use and the purpose of this project:
+
 1: This project was intensively developed with the motive of ensuring prevention and improvement of proactive security software for the protection of an organization infrastructure.
 
 2:Before rolling on the real deal, an indepth knowledge of html,css and Javascript is needed to be able to understand how to clear settimeout funtion with Javascript because it's kinda tricky if this is your first time here.
