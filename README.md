@@ -22,7 +22,12 @@ How to use and the purpose of this project:
 9: on the next, create a settimeout function after or on the next line of your code and inside your function, use the key word "clearTimeout(timing)" to store the veriable you assign to the setInterval function which is "timing" on my end.
  
 10: lastly, you can clear your timer by mutiplying the varibale time(value) which 200 * 1000(timer) to be able to iterate and excute its expected function at the right time. I presumed that we must've assimilated alot today.
-Just a recap for quick understanding, to solve  this problem, you need two responsive functions which are the setinterval function that take crae of the timer while the settimeout function is responsible to execute any function for clearing of the time that's been assign by the programmer at the initial stage. Also, the next part of this lgorithm deal with eventlistener in javascript which will be attached soonest. do well to reach if experience any issue on the process.
+
+Just a recap for quick understanding, to solve this problem you need two responsive functions which are the setinterval function that take care of the timer while the settimeout function is responsible to execute any function for clearing of the time that's been assign by the programmer at the initial stage. 
+
+furthermore, In reference to the development of a proactive security software that will be used to protect an organization infrastructure, this is where this problem solving or project will be of help. for instance, If a cybersecurity analyst personnel is developing a software that helps to protect an organization from their potential threats, risks and vulnerabilities. Making the use setinterval function to set a timer and the SetTimeout function to clear the time of which the program that will execute the software functionality will a very effective and essential way in validating and creating a software that will protect the financial aspect of an organization by detecting and clearing any found threat or risk that will compromised the security standard or confidential information of an organization. Most importantly, It'll protect the company's reputation by making them meeting up to the regulatory policy in cyber security. 
+
+Also, the last part of this algorithm deal with the eventlistener in javascript. which will be attached soonest. do well to reach if experience any issue on your process.
 
 
 
