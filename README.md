@@ -27,9 +27,9 @@ How to use and the purpose of this project:
 
 Just a recap for quick understanding, to solve this problem you need two responsive functions which are the setinterval function that take care of the timer while the settimeout function is responsible to execute any function for clearing of the time that's been assign by the programmer at the initial stage. 
 
-furthermore, In reference to developing a proactive security software that will be used to protect an organization infrastructure. this is where the knowledge of this project will be appply. 
-for instance, If a cybersecurity analyst personnel is been asign  a task to develop a proactive software that will protect the organization from their potential threats, risks and 
- vulnerabilities. however, Making use of the setinterval function to set a timer and SetTimeout function to clear the time of which the program will execute the functionality on the software will be very effective or essential in validating and creating a software that will protect the financial aspect of an organization by detecting and clearing any found threats or risks and vulnerabilities that will harm the security standard or compromised confidential information of an organization. Most importantly, It'll protect the company reputation by making them meeting up to the regulatory policy in cyber security. 
+Furthermore, In reference to develop a proactive security software that will be used to protect an organization infrastructure. this is where the knowledge of this project will be appplicable and used. 
+
+for instance, If an entry-level cybersecurity analyst personnel is been assign a task to develop a proactive software that will protect the organization from their potential threats, risks and vulnerabilities.that been said, the use of the setinterval function to set a timer and the SetTimeout function to clear the time of which the program will execute its functionality on the software will be very effective and essential in validating and creating a software that will protect the financial aspect of an organization, by detecting and clearing any found threats, risks and vulnerabilities that will harm the security standard of an organization. Most importantly, It'll protect the company's  reputation by making them to meet up with the regulatory policy in cybersecurity. also,it can help to prevent and protect the organization from any potential threats or risks from happening at the first place. if deployed intensively with well stated algorithms and functions when developing your software.
 
 
 
