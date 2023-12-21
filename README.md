@@ -34,8 +34,9 @@ In conclusion, I've decided to throw more light or points on the last part of my
 
 1. I created an EventListner function "oninput" which means my SetTimeout function will start tracking the time whenever a user start typing on the "input Box". The user have 200 sec to type on the input box. after 200sec if you're unable or fast enough to manage the time given then you'll be kicked out of the session. and you can start another session to test how fast you can type the word "HELLO WORLD THIS IS TYPING".
 2. secondly, I used "FOR LOOP" to iterate the word to type on the input box.
-3. on the next step, I assign a constant element to the word to type variable and I passed an "IF STATEMENT" which is If the element is equal to e.target.value[i]. then console.log(element) which is "HELLO WORLD THIS IS TYPING".
-4. Lastly, I want to use this opportunity to give y'all heads up on how happy I'm at the moment about the progress we've made on this repo. I won't have come this far without you guys I'm grateful to each and everyone of you. that been said, this repo is about 964+ views with 212 clones. I'm still surprised about the views and clones. I hope we achieve more on my next repo/project guys. see y'all soon. 
+3. on the next step, I assign a constant element to the word to type variable and I passed an "IF STATEMENT" which is If the element is equal to e.target.value[i]. then 
+ console.log(element) which is "HELLO WORLD THIS IS TYPING".
+Lastly, I want to use this opportunity to give y'all heads up on how happy glad and delighted I'm at the moment about the progress we've made on this repo. I won't have come this far without you guys. my warmest gratitude goes to each and everyone of you that been said, this repo is about 964+ views with 212 clones. I'm still surprised about the views and clones. I hope we achieve more on my next repo/project guys. see y'all soon. 
 
 
 
