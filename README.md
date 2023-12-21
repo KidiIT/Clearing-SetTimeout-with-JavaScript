@@ -23,15 +23,19 @@ How to use and the purpose of this project:
 
 9. on the next, create a settimeout function after or on the next line of your code and inside your function, use the key word "clearTimeout(timing)" to store the veriable you assign to the setInterval function which is "timing" on my end.
  
-10. lastly, you can clear the timer function by using assignment operator mutiply(*), by mutiplying the variable time(value) which 200 * 1000(timer) to be able to iterate and perform its expected function at the right time. I presumed that we must've assimilated alot today.
+10. lastly, you can clear the timer function by using an assignment operator mutiply(*), by mutiplying the variable time(value) which 200 * 1000(timer) to be able to iterate and perform its expected function at the right time. I presumed that we must've assimilated alot today.
 
 Just a recap for quick understanding, to solve this problem you need two responsive functions which are the setinterval function that take care of the timer while the settimeout function is responsible to execute any function for clearing of the time that's been assign by the programmer at the initial stage. 
 
 Furthermore, In reference to develop a proactive security software that will be used to protect an organization infrastructure. this is where the knowledge of this project will be appplicable and used. 
-
 For instance, If an entry-level cybersecurity analyst personnel is been assign a task to develop a proactive software that will protect the organization from their potential threats, risks and vulnerabilities.that been said, the use of the setinterval function to set a timer and the SetTimeout function to clear the time of which the program will execute its functionality on the software will be very effective and essential in validating and creating a software that will protect the financial aspect of an organization, by detecting and clearing any found threats, risks and vulnerabilities that will harm the security standard of an organization. Most importantly, It'll protect the company's  reputation by making them to meet up with the regulatory policy in cybersecurity. also,it can help to prevent and protect the organization from any potential threats or risks from happening at the first place. if deployed intensively with well stated algorithms and functions when developing your software.
 
+In conclusion, I've decided to throw more light or points on the last part of my project.which is clearing SetTimeout with javascript function. however, enlighting us more on how to apply and use the EventListner on this project or any work you want will be a great one to look into and this is what happen on the last part you need to note:
 
+1. I created an EventListner function "oninput" which means my SetTimeout function will start tracking the time whenever a user start typing on the "input Box". The user have 200 sec to type on the input box. after 200sec if you're unable or fast enough to manage the time given then you'll be kicked out of the session. and you can start another session to test how fast you can type the word "HELLO WORLD THIS IS TYPING".
+2. secondly, I used "FOR LOOP" to iterate the word to type on the input box.
+3. on the next step, I assign a constant element to the word to type variable and I passed an "IF STATEMENT" which is If the element is equal to e.target.value[i]. then console.log(element) which is "HELLO WORLD THIS IS TYPING".
+4. Lastly, I want to use this opportunity to give y'all heads up on how happy I'm at the moment about the progress we've made on this repo. I won't have come this far without you guys I'm grateful to each and everyone of you. that been said, this repo is about 964+ views with 212 clones. I'm still surprised about the views and clones. I hope we achieve more on my next repo/project guys. see y'all soon. 
 
 
 
